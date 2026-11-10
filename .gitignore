@@ -1,0 +1,4 @@
+.venv/
+kuhi.log
+__pycache__/
+*.pyc

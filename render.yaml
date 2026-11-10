@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: kuhi-stream-api
+    runtime: docker
+    plan: free
+    healthCheckPath: /anime/providers/status
